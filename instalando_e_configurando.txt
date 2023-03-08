@@ -1,0 +1,2 @@
+Foi aprendido como instalar
+e configurar o git no windows 
