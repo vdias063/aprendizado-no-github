@@ -1,0 +1,4 @@
+Para criar uma branch digite 
+git branch [nome desejado]
+para ir até a branch digite
+git checkout [nome da branch]
