@@ -1,0 +1,3 @@
+Neste curso vai ser ensinado usar
+o git e github desde sua 
+instalação até comandos avançados
